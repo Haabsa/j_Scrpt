@@ -1,0 +1,14 @@
+.snowble1{
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+
+    display: flex ;
+
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}

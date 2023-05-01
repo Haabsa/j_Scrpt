@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+img{
+    width: 50%;
+    
+}
+.slideshow-container{
+    align-content: center;
+    border-right-width: 100%;
+}
+#bg{
+    background-color:pink;
+}
